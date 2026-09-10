@@ -139,3 +139,4 @@ Run:
 ```bash
 dotnet test PartnerTransactionBff.sln --collect:"XPlat Code Coverage"
 ```
+<img width="1467" height="442" alt="image" src="https://github.com/user-attachments/assets/8f687c84-0c78-46a0-9611-c1dc6e2c4fab" />
